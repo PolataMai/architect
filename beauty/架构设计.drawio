@@ -1,1 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T16:58:22.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="L8CQb1UBwZGcIXtWMPKu" version="14.6.0" type="device"><diagram id="23iRSUPoRavnBvh4doch" name="Page-1">dZHBEoIgEIafhjtCZZ3N6tLJQ2dGNmEGXQdptJ4+HTBjrJk97H77Lz8shGf1cLaiVVeUYAijciD8SBhLNoyRKah8epLSrQeV1TKIFlDoFwRIA31oCV0kdIjG6TaGJTYNlC5iwlrsY9kdTezaigpWoCiFWdOblk55umfpwi+gKzU7J7uD79RiFoeXdEpI7L8QzwnPLKLzWT1kYKblzXvxc6c/3c/FLDTux8CYLGePRfRDPH8D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-07T15:22:09.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="gAoEesRfZrew769voG7k" version="20.4.0" type="github">
+  <diagram id="23iRSUPoRavnBvh4doch" name="架构设计">
+    <mxGraphModel dx="976" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
